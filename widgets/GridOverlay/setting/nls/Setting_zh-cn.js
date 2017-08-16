@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/GridOverlay/setting/nls/strings":{serviceUrl:"\u8bbe\u7f6e\u670d\u52a1 URL\uff1a",minIntSpacingLabel:"\u6700\u5c0f\u95f4\u8ddd",lineOpacityLabel:"\u7ebf\u4e0d\u900f\u660e\u5ea6",labelOpacityLabel:"\u6807\u6ce8\u4e0d\u900f\u660e\u5ea6",centerLabelOpacityLabel:"\u4e2d\u5fc3\u6807\u6ce8\u4e0d\u900f\u660e\u5ea6",gridZonePlacementLabel:"\u7f51\u683c\u533a\u57df\u6807\u6ce8\u653e\u7f6e",verticalLineLabels:"\u5782\u76f4\u7ebf\u6807\u6ce8",styleHeaderLabel:"\u6837\u5f0f",indexHeaderLabel:"\u7d22\u5f15",
+colorHeaderLabel:"\u989c\u8272",fontSizeHeaderLabel:"\u5b57\u53f7",lineWidthHeaderLabel:"\u7ebf\u5bbd\u5ea6",horizontalLabel:"\u6c34\u5e73",verticalLabel:"\u7ad6\u76f4",upperLeftLabel:"\u5de6\u4e0a\u89d2",upperRightLabel:"\u53f3\u4e0a\u89d2",lowerLeftLabel:"\u5de6\u4e0b\u89d2",lowerRightLabel:"\u53f3\u4e0b\u89d2",centerLabel:"\u4e2d\u5fc3",_localized:{}}});

@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/GridOverlay/setting/nls/strings":{serviceUrl:"M\u00e4\u00e4rit\u00e4 palvelun URL-osoite:",minIntSpacingLabel:"V\u00e4himm\u00e4isv\u00e4li",lineOpacityLabel:"Viivan peitt\u00e4vyys",labelOpacityLabel:"Tunnustekstin peitt\u00e4vyys",centerLabelOpacityLabel:"Keskitunnustekstin peitt\u00e4vyys",gridZonePlacementLabel:"Ruudukon alueen tunnustekstin paikka",verticalLineLabels:"Pystyviivan tunnustekstit",styleHeaderLabel:"Tyyli",indexHeaderLabel:"Hakemisto",colorHeaderLabel:"V\u00e4ri",
+fontSizeHeaderLabel:"Fontin koko",lineWidthHeaderLabel:"Viivan leveys",horizontalLabel:"Vaaka",verticalLabel:"Pysty",upperLeftLabel:"Ylh\u00e4\u00e4ll\u00e4 vasemmalla",upperRightLabel:"Ylh\u00e4\u00e4ll\u00e4 oikealla",lowerLeftLabel:"Alhaalla vasemmalla",lowerRightLabel:"Alhaalla oikealla",centerLabel:"Keskit\u00e4",_localized:{}}});

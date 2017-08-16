@@ -1,0 +1,4 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/Bookmark/setting/nls/strings":{add:"Kl\u00f5psa uue lisamiseks",title:"Pealkiri",placeholderBookmarkName:"J\u00e4rjehoidja nimi",ok:"OK",cancel:"T\u00fchista",warning:"Viige muutmine l\u00f5pule!",edit:"Muuda j\u00e4rjehoidjat",errorNameExist:"J\u00e4rjehoidja on olemas!",errorNameNull:"Vigane j\u00e4rjehoidja nimi!",addBookmark:"Loo uus",thumbnail:"Pisipilt",thumbnailHint:"Uuendamiseks kl\u00f5psake pilti",_localized:{}}});

@@ -1,0 +1,4 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/GridOverlay/nls/strings":{_widgetLabel:"\u062a\u0631\u0627\u0643\u0628 \u0627\u0644\u0634\u0628\u0643\u0629",description:"\u0639\u0646\u0635\u0631 \u0648\u0627\u062c\u0647\u0629 \u0627\u0633\u062a\u062e\u062f\u0627\u0645 AppBuilder \u0645\u062e\u0635\u0635 \u0639\u0644\u0649 \u0627\u0644\u0648\u064a\u0628 \u0644\u0639\u0631\u0636 \u0627\u0644\u0625\u062d\u062f\u0627\u062b\u064a\u0627\u062a \u0648\u0627\u0644\u062a\u0631\u0627\u0643\u0628.",_localized:{}}});

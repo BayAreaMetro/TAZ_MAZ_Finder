@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define("dojo/aspect dojo/_base/lang ../DijitFactory ./dijitsSetting/TextDijitSetting ./dijitsSetting/ImageDijitSetting ./dijitsSetting/ChartDijitSetting ./dijitsSetting/GaugeDijitSetting ./dijitsSetting/NumberDijitSetting".split(" "),function(k,f,l,m,n,p,q,r){var b={},d={},g=null,h=null,e={};b._dijitsSetting=d;b.getDijitSetting=function(a){return d[a.id]};b.createDijitSetting=function(a){if(d[a.id])return d[a.id];var c;switch(a.type){case "text":c=m;break;case "image":c=n;break;case "chart":c=p;break;
+case "gauge":c=q;break;case "number":c=r}if(!c)return console.error("Unknow type:",a.type),null;var b={nls:g,config:a.config,map:null,appConfig:h,dijit:l.createDijit(a)};f.mixin(b,e);c=new c(b);k.after(c,"destroy",function(){delete d[a.id]},a);return d[a.id]=c};b.setNls=function(a){g=a};b.setContext=function(a){e=a;Object.keys(d).forEach(function(a){f.mixin(d[a],e)})};b.setAppConfig=function(a){h=a};return b});

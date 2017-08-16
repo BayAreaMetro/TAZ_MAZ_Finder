@@ -1,0 +1,4 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/Bookmark/setting/nls/strings":{add:"Paspauskite ta\u0161kui prid\u0117ti",title:"Pavadinimas",placeholderBookmarkName:"Erdvin\u0117s \u017eymos\u00a0pavadinimas",ok:"Gerai",cancel:"At\u0161aukti",warning:"Baikite redagavim\u0105!",edit:"Redaguoti \u017eym\u0119",errorNameExist:"\u017dym\u0117 yra!",errorNameNull:"Neleistinas \u017eym\u0117s pavadinimas!",addBookmark:"Sukurti nauj\u0105",thumbnail:"Miniati\u016bra",thumbnailHint:"Paspauskite vaizd\u0105 nor\u0117dami atnaujinti",_localized:{}}});

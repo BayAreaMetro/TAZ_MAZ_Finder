@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/GridOverlay/setting/nls/strings":{serviceUrl:"Nastavte adresu URL slu\u017eby:",minIntSpacingLabel:"Minim\u00e1ln\u00ed rozp\u011bt\u00ed intervalu",lineOpacityLabel:"Nepr\u016fhlednost linie",labelOpacityLabel:"Nepr\u016fhlednost popisku",centerLabelOpacityLabel:"Nepr\u016fhlednost st\u0159edn\u00edho popisku",gridZonePlacementLabel:"Um\u00edst\u011bn\u00ed popisku z\u00f3ny m\u0159\u00ed\u017eky",verticalLineLabels:"Popisky svisl\u00e9 linie",styleHeaderLabel:"Styl",indexHeaderLabel:"Index",
+colorHeaderLabel:"Barva",fontSizeHeaderLabel:"Velikost p\u00edsma",lineWidthHeaderLabel:"\u0160\u00ed\u0159ka linie",horizontalLabel:"Vodorovn\u00fd",verticalLabel:"Svisl\u00fd",upperLeftLabel:"Lev\u00fd horn\u00ed",upperRightLabel:"Prav\u00fd horn\u00ed",lowerLeftLabel:"Lev\u00fd doln\u00ed",lowerRightLabel:"Prav\u00fd doln\u00ed",centerLabel:"St\u0159ed",_localized:{}}});

@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/GridOverlay/setting/nls/strings":{serviceUrl:"Definir url de servi\u00e7o:",minIntSpacingLabel:"Espa\u00e7amento M\u00ednimo de Intervalo",lineOpacityLabel:"Opacidade de Linha",labelOpacityLabel:"Opacidade de R\u00f3tulo",centerLabelOpacityLabel:"Opacidade de R\u00f3tulo Central",gridZonePlacementLabel:"Coloca\u00e7\u00e3o de R\u00f3tulo de Zona de Grelha",verticalLineLabels:"R\u00f3tulos de Linhas Verticais",styleHeaderLabel:"Estilo",indexHeaderLabel:"\u00cdndice",colorHeaderLabel:"Cor",
+fontSizeHeaderLabel:"Tamanho de letra",lineWidthHeaderLabel:"Largura de Linha",horizontalLabel:"Horizontal",verticalLabel:"Vertical",upperLeftLabel:"Superior Esquerdo",upperRightLabel:"Superior Direito",lowerLeftLabel:"Inferior Esquerdo",lowerRightLabel:"Inferior Direito",centerLabel:"Centrar",_localized:{}}});

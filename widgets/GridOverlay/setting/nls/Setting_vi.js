@@ -1,0 +1,6 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/GridOverlay/setting/nls/strings":{serviceUrl:"Thi\u1ebft l\u1eadp url d\u1ecbch v\u1ee5:",minIntSpacingLabel:"Kho\u1ea3ng c\u00e1ch t\u1ed1i thi\u1ec3u",lineOpacityLabel:"\u0110\u1ed9 m\u1edd \u0111\u1ee5c c\u1ee7a d\u00f2ng",labelOpacityLabel:"\u0110\u1ed9 m\u1edd \u0111\u1ee5c c\u1ee7a nh\u00e3n",centerLabelOpacityLabel:"\u0110\u1ed9 m\u1edd \u0111\u1ee5c c\u1ee7a nh\u00e3n trung t\u00e2m",gridZonePlacementLabel:"\u0110\u1eb7t nh\u00e3n v\u00f9ng l\u01b0\u1edbi",verticalLineLabels:"Nh\u00e3n d\u00f2ng th\u1eb3ng \u0111\u1ee9ng",
+styleHeaderLabel:"Ki\u1ec3u",indexHeaderLabel:"Ch\u1ec9 m\u1ee5c",colorHeaderLabel:"M\u00e0u s\u1eafc",fontSizeHeaderLabel:"C\u1ee1 Ch\u1eef",lineWidthHeaderLabel:"Chi\u1ec1u r\u1ed9ng \u0111\u01b0\u1eddng",horizontalLabel:"Ngang",verticalLabel:"Do\u0323c",upperLeftLabel:"Ph\u00eda tr\u00ean B\u00ean tr\u00e1i",upperRightLabel:"Ph\u00eda tr\u00ean B\u00ean ph\u1ea3i",lowerLeftLabel:"Ph\u00eda d\u01b0\u1edbi B\u00ean tr\u00e1i",lowerRightLabel:"Ph\u00eda d\u01b0\u1edbi B\u00ean ph\u1ea3i",centerLabel:"T\u00e2m",
+_localized:{}}});

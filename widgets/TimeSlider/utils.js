@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define(["dojo/_base/html","dojo/dom-geometry"],function(f,h){var e={initPositionForTheme:{DartTheme:{bottom:140},LaunchpadTheme:{bottom:120}},isRunInMobile:function(){return window.appInfo.isRunInMobile},initPosition:function(a,b,d){var c=window.getAppConfig(),g;c&&c.theme&&c.theme.name&&(g=c.theme.name);c=e.getInitTop(a,b,g);a=e.getInitLeft(a,b,g);d.top=c;d.left=a;f.setStyle(b,"top",d.top+"px");f.setStyle(b,"left",d.left+"px")},getInitTop:function(a,b,d){var c=0;a=h.getMarginBox(a.root);b=f.getContentBox(b).h;
+return c=a.h-(e.initPositionForTheme[d]?e.initPositionForTheme[d].bottom:60)-b},getInitLeft:function(a,b){var d=h.getMarginBox(a.root),c=f.getContentBox(b);return d.w/2-c.w/2}};return e});
