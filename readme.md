@@ -1,6 +1,6 @@
-#Deploy the app
+# Deploy the app
 
-##Do the following to deploy the app on your server:
+## Do the following to deploy the app on your server:
 
         Unzip the downloaded app.
         Deploy it on your web server.
@@ -13,7 +13,7 @@
         Save the config.json file.
         View the locally hosted app in your browser.
 
-#Customize the app
+# Customize the app
 
 Use the Import function in Developer Edition to import the downloaded ZIP file, then customize it in the builder.
 
@@ -30,9 +30,9 @@ Optionally, do the following to customize the application by editing JSON files 
     Configure the app and widgets. Refer to JSON configuration reference.
     Reference preferred ArcGIS API for JavaScript. Refer to Change URL of ArcGIS API for JavaScript.
 
-#Browser requiremets
+ # rowser requiremets
 
-##Supported browsers for deployed applications*:
+## Supported browsers for deployed applications*:
 
     Chrome
     Firefox
