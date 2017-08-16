@@ -30,7 +30,7 @@ Optionally, do the following to customize the application by editing JSON files 
     Configure the app and widgets. Refer to JSON configuration reference.
     Reference preferred ArcGIS API for JavaScript. Refer to Change URL of ArcGIS API for JavaScript.
 
- # rowser requiremets
+ # Browser requiremets
 
 ## Supported browsers for deployed applications*:
 
